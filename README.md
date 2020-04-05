@@ -26,8 +26,12 @@ This app uses a mixture of Express.JS and Handlebars.JS to deliver the front end
 1. Make sure you have MySQL v5 or later installed
 2. Clone the git repo with that shiny green button up there in the top right
 3. Import the `db/schema.sql` and `db/seeds.sql` files with your MySQL database manager of choice
-4. `npm install`
-5. `node server.js`
+4. create a file in the root of the repo named `.env`, and fill as follows: 
+```
+USER=mySQLDatabaseUsername
+PASSWORD=mySQLDatabasePassword
+```
+5. `npm install`, then `node server.js`
 6. Access the page from any web browser @ http://localhost:8080
 7. Marvel at this ridiculously over-built way to keep track of some fast food
 
