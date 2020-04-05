@@ -20,7 +20,7 @@ This app uses a mixture of Express.JS and Handlebars.JS to deliver the front end
 
 ## See it in action!
 
-![Demo animation goes here](http://placekitten.com/300/300)
+![Demo animation goes here](./Screenshot.png)[https://obscure-woodland-50261.herokuapp.com/]
 
 (obvious placeholder is obvious)
 
