@@ -22,8 +22,6 @@ This app uses a mixture of Express.JS and Handlebars.JS to deliver the front end
 
 ![Demo animation goes here](./Screenshot.png)[https://obscure-woodland-50261.herokuapp.com/]
 
-(obvious placeholder is obvious)
-
 ## How to get started
 1. Make sure you have MySQL v5 or later installed
 2. Clone the git repo with that shiny green button up there in the top right
